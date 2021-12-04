@@ -1,4 +1,4 @@
-# fire-calculator
+# Financial Independence Calculator
 
 ## Project setup
 ```
