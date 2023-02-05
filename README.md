@@ -1,4 +1,8 @@
 # Financial Independence Calculator
+This is a calculator built using VueJS which helps individuals calculate the number of years they need to save in order to reach financial independence. The calculator takes into account the individual's current savings, yearly expenses, and yearly income, to try providing a realistic estimate of the timeline for financial independence.
+
+## Preview
+![Preview](preview.png?raw=true "Preview")
 
 ## Project setup
 ```
@@ -20,5 +24,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Credits
+- [Vue.js](https://vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/)
